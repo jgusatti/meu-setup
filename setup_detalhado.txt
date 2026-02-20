@@ -17,12 +17,12 @@
     /////767676767676767676767/////
       ///////////////////////////
          /////////////////////
-             /////////////[1G[19A[43Cjpgusatti@pop-os
+             /////////////
+[1G[19A[43Cjpgusatti@pop-os
 [43C----------------
 [43COS: Pop!_OS 24.04 LTS x86_64
 [43CHost: 550XDA (P23CFB)
 [43CKernel: Linux 6.17.9-76061709-generic
-[43CUptime: 34 mins
 [43CPackages: 2063 (dpkg), 9 (flatpak-user)
 [43CShell: bash 5.2.21
 [43CDisplay (BOE0812): 1920x1080 in 15", 60 Hz [Built-in]
@@ -37,10 +37,9 @@
 [43CTerminal Font: Noto Sans Mono (14px)
 [43CCPU: 11th Gen Intel(R) Core(TM) i5-1135G7 (8) @ 4.20 GHz
 [43CGPU: Intel Iris Xe Graphics @ 1.30 GHz [Integrated]
-[43CMemory: 3.77 GiB / 15.34 GiB (25%)
-[43CSwap: 0 B / 15.34 GiB (0%)
-[43CDisk (/): 10.23 GiB / 97.87 GiB (10%) - ext4
-[43CDisk (/home): 42.02 GiB / 347.80 GiB (12%) - ext4
+[43CMemory: 15.34 GiB
+[43CDisk (/): 97.87 GiB - ext4
+[43CDisk (/home): 347.80 GiB - ext4
 [43CLocale: pt_BR.UTF-8
 [43C
 [43C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
