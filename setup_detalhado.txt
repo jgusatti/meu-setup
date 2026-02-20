@@ -41,8 +41,6 @@
 [43CSwap: 0 B / 15.34 GiB (0%)
 [43CDisk (/): 10.23 GiB / 97.87 GiB (10%) - ext4
 [43CDisk (/home): 42.02 GiB / 347.80 GiB (12%) - ext4
-[43CLocal IP (wlo1): 10.27.0.231/24
-[43CBattery (SR Real Battery): 84% [AC Connected]
 [43CLocale: pt_BR.UTF-8
 [43C
 [43C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
